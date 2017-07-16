@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/endurance-model-obfuscator.iml" filepath="$PROJECT_DIR$/.idea/endurance-model-obfuscator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../endurance-sdk/.idea/endurance-sdk.iml" filepath="$PROJECT_DIR$/../endurance-sdk/.idea/endurance-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../modob/.idea/modob.iml" filepath="$PROJECT_DIR$/../modob/.idea/modob.iml" />
+    </modules>
+  </component>
+</project>

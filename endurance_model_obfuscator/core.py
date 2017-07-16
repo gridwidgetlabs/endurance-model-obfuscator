@@ -8,7 +8,7 @@ from endurance.core.modeling.all import Node, Substation, SwitchingDevice
 from endurance.core.enum import StringEnum
 import string
 import random
-
+ 
 
 class HideableRecords(StringEnum):
     area = "area"
